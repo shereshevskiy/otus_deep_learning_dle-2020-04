@@ -1,0 +1,12 @@
+numpy==1.16.0
+scipy==1.2.0
+matplotlib==3.0.1
+pandas==0.25
+scikit-learn==0.20.3
+tqdm>=4.26.0
+pytorch==1.1.0
+torchvision==0.2.1
+jupyterlab
+jupyter
+tensorflow
+keras
