@@ -3,7 +3,7 @@
 _*/
 _*
 MNIST*/
-logs/
+logs*/
 data/
 
 # Created by https://www.gitignore.io/api/python,pycharm,jupyternotebooks
