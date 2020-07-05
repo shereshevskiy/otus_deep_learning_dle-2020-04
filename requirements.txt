@@ -12,5 +12,4 @@ pytorch==1.1.0
 torchvision==0.2.1
 jupyterlab
 jupyter
-tensorflow
-keras
+tensorflow==2.0.0
