@@ -13,3 +13,7 @@ torchvision==0.2.1
 jupyterlab
 jupyter
 tensorflow==2.0.0
+finsymbols
+urllib
+bs4
+python-dotenv
