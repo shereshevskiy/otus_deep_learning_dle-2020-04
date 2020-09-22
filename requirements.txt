@@ -16,4 +16,4 @@ tensorflow==2.0.0
 finsymbols
 urllib
 bs4
-python-dotenv
+python-dotenvpy
