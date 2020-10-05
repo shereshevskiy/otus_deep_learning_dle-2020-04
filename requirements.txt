@@ -17,3 +17,4 @@ finsymbols
 urllib
 bs4
 python-dotenvpy
+ipywidgets
