@@ -234,3 +234,4 @@ dmypy.json
 .pyre/
 
 # End of https://www.gitignore.io/api/python,pycharm,jupyternotebooks
+/transformer-0.3.0/
