@@ -1,9 +1,12 @@
-# Курс Нейронные сети на Python от OTUS
-Курс о нейронных сетях, глубоком обучении и их применении для решения задач CV, NLP и обучения с подкреплением
+# Neural Networks in Python by OTUS
+__Course on Neural Networks, Deep Learning and Their Applications for tasks CV, NLP and Reinforcement Learning__
 
-4 месяца плюс Проектная работа
+**6 months plus graduation project**
 
-Курс здесь
-https://otus.ru/lessons/deep-learning-engineer/
+### Course program
+https://github.com/shereshevskiy/otus_deep_learning_dle-2020-04/blob/master/course_program_deep_learning_engineer(dle-2020).pdf
 
-В репозитории - мое прохождение курса
+### Certificate of completion
+https://otus.ru/certificate/3dd8ebc7e1c845768678ff27620de401/en/
+
+In the repository - my course
