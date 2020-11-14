@@ -1,4 +1,4 @@
-# Neural Networks in Python by OTUS
+# Course "Neural Networks in Python" by OTUS
 __Course on Neural Networks, Deep Learning and Their Applications for tasks CV, NLP and Reinforcement Learning__
 
 **6 months plus graduation project**
